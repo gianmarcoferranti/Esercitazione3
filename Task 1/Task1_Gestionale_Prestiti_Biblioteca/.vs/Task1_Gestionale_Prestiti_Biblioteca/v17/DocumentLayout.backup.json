@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\gestione_prestiti_biblioteca.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\gestione_prestiti_biblioteca.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\models\\dal\\prestitodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\models\\dal\\prestitodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\models\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\models\\dal\\librodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\models\\prestitolinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\models\\prestitolinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\models\\utentelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\models\\utentelinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|c:\\users\\utente\\source\\repos\\task1_gestionale_prestiti_biblioteca\\task1_gestionale_prestiti_biblioteca\\gestione_prestiti_biblioteca.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{0854A064-09B1-4B2E-B944-11B867F147C5}|Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca.csproj|solutionrelative:task1_gestionale_prestiti_biblioteca\\gestione_prestiti_biblioteca.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gestione_prestiti_biblioteca.sql ",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Gestione_prestiti_biblioteca.sql",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Gestione_prestiti_biblioteca.sql",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Gestione_prestiti_biblioteca.sql",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Gestione_prestiti_biblioteca.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-30T06:38:25.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestitoLINQ.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\PrestitoLINQ.cs",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\PrestitoLINQ.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\PrestitoLINQ.cs",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\PrestitoLINQ.cs",
+              "ViewState": "AgIAAAcAAAAgMzMzMzMrwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:54:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestitoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\PrestitoDAO.cs",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\PrestitoDAO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\PrestitoDAO.cs",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\PrestitoDAO.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:42:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibroDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\LibroDAO.cs",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\LibroDAO.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\LibroDAO.cs",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\DAL\\LibroDAO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:29:36.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtenteLINQ.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\UtenteLINQ.cs",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\UtenteLINQ.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Models\\UtenteLINQ.cs",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Models\\UtenteLINQ.cs",
+              "ViewState": "AgIAAAcAAADgMjMzMzMrwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:21:08.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Task1_Gestionale_Prestiti_Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task1_Gestionale_Prestiti_Biblioteca\\Task1_Gestionale_Prestiti_Biblioteca\\Program.cs",
+              "RelativeToolTip": "Task1_Gestionale_Prestiti_Biblioteca\\Program.cs",
+              "ViewState": "AgIAADwCAACAXpmZmZkdwEcCAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:20:22.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
